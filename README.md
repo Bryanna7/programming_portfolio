@@ -14,6 +14,8 @@ island to find a way back home.
 A project to demonstrate list, array, conditional statements, and store formatted data.
 
 
+
+
 ## Adventure Game WPF
 The player will freely explore their magical forest and will learn what causes your homeland to have different land environments appearing in your forest. From the exploration, the player will find clues and items to discover what happened to their hometown and how they can change it back to normal.
 
@@ -22,12 +24,16 @@ The player will freely explore their magical forest and will learn what causes y
 A project to demonstrate the principles of inheritance, polymorphism, and encapsulation.
 
 
+
+
  ## Adopt A Fish
  A practice build up game where players can adopt a fish, name it, and change the fish tank temperature.
  
  ![Image](https://github.com/Bryanna7/programming_portfolio/blob/main/image/Adoptfish.png?raw=true)
 
 Practice demonstrating to refactor code, adding color, and menu options for player to choose.
+
+
 
 
  ## I/O and Game Mapp(Array)
