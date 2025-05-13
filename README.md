@@ -27,13 +27,20 @@ A project to demonstrate the principles of inheritance, polymorphism, and encaps
  
  ![Image](https://github.com/Bryanna7/programming_portfolio/blob/main/image/Adoptfish.png?raw=true)
 
+Practice demonstrating to refactor code, adding color, and menu options for player to choose.
+
 
  ## I/O and Game Mapp(Array)
  An assignment learning to build I/O and External Data and Game Map Logic.
  
 ![Image](https://github.com/Bryanna7/programming_portfolio/blob/main/image/Maparray.png?raw=true)
 
+Practice building a 2D array where the player can visit different locations.
+
+
  ## Substitution Cipher
  An assignment to practice string manipulaqtion. Building an encryption.
  
 ![Image](https://github.com/Bryanna7/programming_portfolio/blob/main/image/cipher.png?raw=true)
+
+
