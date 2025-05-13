@@ -1,4 +1,4 @@
 # Programming_Portfolio
 
 ## Adventure Game
-![Image] (../image/Adventure game.png)
+![Image] (Adventure game.png)
