@@ -11,15 +11,22 @@ island to find a way back home.
 
 ![Adventure game.png](https://github.com/Bryanna7/programming_portfolio/blob/main/image/Adventure%20game.png?raw=true) 
 
+A project to demonstrate list, array, conditional statements, and store formatted data.
+
+
 ## Adventure Game WPF
 The player will freely explore their magical forest and will learn what causes your homeland to have different land environments appearing in your forest. From the exploration, the player will find clues and items to discover what happened to their hometown and how they can change it back to normal.
 
 ![Image](https://github.com/Bryanna7/programming_portfolio/blob/main/image/Adventuregamewpf.png?raw=true)
 
+A project to demonstrate the principles of inheritance, polymorphism, and encapsulation.
+
+
  ## Adopt A Fish
  A practice build up game where players can adopt a fish, name it, and change the fish tank temperature.
  
  ![Image](https://github.com/Bryanna7/programming_portfolio/blob/main/image/Adoptfish.png?raw=true)
+
 
  ## I/O and Game Mapp(Array)
  An assignment learning to build I/O and External Data and Game Map Logic.
