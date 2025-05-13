@@ -36,7 +36,7 @@ Practice demonstrating to refactor code, adding color, and menu options for play
 
 
 
- ## I/O and Game Mapp(Array)
+ ## I/O and Game Map(Array)
  An assignment learning to build I/O and External Data and Game Map Logic.
  
 ![Image](https://github.com/Bryanna7/programming_portfolio/blob/main/image/Maparray.png?raw=true)
