@@ -49,4 +49,4 @@ Practice building a 2D array where the player can visit different locations.
  
 ![Image](https://github.com/Bryanna7/programming_portfolio/blob/main/image/cipher.png?raw=true)
 
-
+Practice learning to build a method to substitute letters for encoding and decoding. Exploring different approaches for the Cipher to fully function properly.
