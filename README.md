@@ -9,4 +9,7 @@ quest. Players must explore and meet people to map out the island. Including pla
 complete quests and using the help of others to collect artifacts scattered across the 
 island to find a way back home. 
 
-##Adventure Game WPF
+## Adventure Game WPF
+![Image](https://github.com/Bryanna7/programming_portfolio/blob/main/image/Adventuregamewpf.png?raw=true)
+
+The player will freely explore their magical forest and will learn what causes your homeland to have different land environments appearing in your forest. From the exploration, the player will find clues and items to discover what happened to their hometown and how they can change it back to normal. 
