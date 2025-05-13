@@ -15,4 +15,9 @@ The player will freely explore their magical forest and will learn what causes y
 
 ![Image](https://github.com/Bryanna7/programming_portfolio/blob/main/image/Adventuregamewpf.png?raw=true)
 
- 
+ ## Adopt A Fish
+ ![Image](https://github.com/Bryanna7/programming_portfolio/blob/main/image/Adoptfish.png?raw=true)
+
+ ## I/O and Game Mapp(Array)
+
+ ## Substitution Cipher
